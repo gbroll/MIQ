@@ -1,0 +1,1 @@
+ROIset =G:\MF\Diagnostik\autoDQA\MG\ImageJ\Mammo_45_mm_ROIset.zip
